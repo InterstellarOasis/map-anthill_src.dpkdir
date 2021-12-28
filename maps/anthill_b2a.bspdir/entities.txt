@@ -1,0 +1,32 @@
+{
+"classname" "worldspawn"
+"_blocksize" "8192"
+"gridsize" "512 512 512"
+"_q3map2_cmdline" "-meta -custinfoparms; -vis -saveprt"
+"_q3map2_version" "2.5.17n-git-2b06fe2"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "-1411 3540 -817"
+"angles" "90.0 0.0 0.0"
+}
+{
+"classname" "info_player_intermission"
+"origin" "-2841 -1516 -35"
+"angles" "-1.36755 0.91568 0.0"
+}
+{
+"classname" "info_alien_intermission"
+"origin" "-4430 7090 -1415"
+"angles" "7.41569 -45.84798 0.0"
+}
+{
+"classname" "info_human_intermission"
+"origin" "1909 -7445 -32"
+"angles" "9.06867 102.1627 -0.0"
+}
+{
+"classname" "team_human_spawn"
+"origin" "1200 -6000 0"
+"angles" "90.0 0.0 0.0"
+}
