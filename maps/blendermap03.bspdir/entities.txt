@@ -1,0 +1,47 @@
+{
+"classname" "worldspawn"
+"message" "Made (mostly) with Blender!"
+"_blocksize" "2048"
+"_q3map2_cmdline" "-meta -custinfoparms; -vis -saveprt"
+"_q3map2_version" "2.5.17n-git-2b06fe2"
+}
+{
+"classname" "target_position"
+"targetname" "cameraTarget"
+"origin" "0 0 160"
+}
+{
+"classname" "info_player_intermission"
+"target" "cameraTarget"
+"origin" "-640 640 320"
+}
+{
+"classname" "info_human_intermission"
+"target" "cameraTarget"
+"origin" "640 640 320"
+}
+{
+"classname" "info_alien_intermission"
+"target" "cameraTarget"
+"origin" "-640 -640 320"
+}
+{
+"classname" "team_human_spawn"
+"angle" "0"
+"origin" "320 -320 128"
+}
+{
+"classname" "team_human_spawn"
+"angle" "0"
+"origin" "-320 -320 128"
+}
+{
+"classname" "team_alien_spawn"
+"angle" "180"
+"origin" "320 320 128"
+}
+{
+"classname" "team_alien_spawn"
+"angle" "180"
+"origin" "-320 320 128"
+}
