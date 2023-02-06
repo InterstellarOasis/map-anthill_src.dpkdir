@@ -2,7 +2,7 @@ textures/anthill/misc_skybox
 {
 	qer_editorimage textures/anthill/sky1.tga
 	qer_trans 0.5
-	
+
 	surfaceparm noimpact
 	surfaceparm nomarks
 	surfaceparm nolightmap
@@ -22,7 +22,7 @@ textures/anthill/misc_skybox
 	// brightness (50 ~ 200, exponential factor (~3)
 	q3map_skylight 300 3
 	q3map_surfacelight 300
-	
+
 	// q3map_surfacelight 0
 	//skyParms farbox cloudheight nearbox
 	// skyparms env/anthill/farbox 256 env/anthill/nearbox
@@ -49,7 +49,7 @@ textures/anthill/misc_sky_ns
 {
 	qer_editorimage textures/anthill/sky1.tga
 	qer_trans 0.5
-	
+
 	surfaceparm noimpact
 	surfaceparm nomarks
 	surfaceparm nolightmap
@@ -69,7 +69,7 @@ textures/anthill/misc_sky_ns
 	// brightness (50 ~ 200, exponential factor (~3)
 	q3map_skylight 300 3
 	q3map_surfacelight 300
-	
+
 	// q3map_surfacelight 0
 	//skyParms farbox cloudheight nearbox
 	// skyparms env/anthill/farbox 256 env/anthill/nearbox
@@ -95,7 +95,7 @@ textures/anthill/misc_lava
 {
 	qer_editorimage textures/common-seeeker/lava.tga
 	qer_trans 0.5
-	
+
 	//surfaceparm fog
 	surfaceparm lava
 	surfaceparm nolightmap
