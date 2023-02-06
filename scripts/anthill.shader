@@ -84,7 +84,7 @@ textures/anthill/misc_sky_ns
 	}
 	{
 		map textures/anthill/sky0
-		// blendfunc GL_ONE G`L_ONE
+		// blendfunc GL_ONE GL_ONE
 		blendfunc add
 		tcMod scroll 0.005 0.006
 		tcMod scale 3 2
